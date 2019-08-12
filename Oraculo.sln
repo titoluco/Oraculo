@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oraculo", "Oraculo\Oraculo.csproj", "{6632A5F7-A05F-4C0D-8E7D-882DE46C2184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6632A5F7-A05F-4C0D-8E7D-882DE46C2184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6632A5F7-A05F-4C0D-8E7D-882DE46C2184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6632A5F7-A05F-4C0D-8E7D-882DE46C2184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6632A5F7-A05F-4C0D-8E7D-882DE46C2184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82DDACB-C66D-4341-9C6F-F6B7B262315C}
+	EndGlobalSection
+EndGlobal

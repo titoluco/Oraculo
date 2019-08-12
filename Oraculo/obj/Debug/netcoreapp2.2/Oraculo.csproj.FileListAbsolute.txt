@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\bin\Debug\netcoreapp2.2\Oraculo.deps.json
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\bin\Debug\netcoreapp2.2\Oraculo.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\bin\Debug\netcoreapp2.2\Oraculo.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\bin\Debug\netcoreapp2.2\Oraculo.dll
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\bin\Debug\netcoreapp2.2\Oraculo.pdb
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.dll
+C:\Users\logonrmlocal\source\repos\Oraculo\Oraculo\obj\Debug\netcoreapp2.2\Oraculo.pdb
